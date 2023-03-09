@@ -22,3 +22,22 @@
   - [Hillel Front-end Basic](https://ithillel.ua/courses/front-end-basic)
 
 ---
+
+## Computer Skills:
+
+- HTML, CSS (SASS/SCSS, BEM)
+- JavaScript, TypeScript
+- Git, GitHub
+- VSCode, WebStorm
+- Adobe Photoshop, Figma
+
+---
+
+## Language Skills:
+
+- Russian: native
+- Ukrainian: native
+- English: fluent (C1)
+- German: intermediate (B1)
+
+---
