@@ -13,3 +13,12 @@
 - **Github:** [EugeneTarasenko](https://github.com/EugeneTarasenko)
 
 ---
+
+## Education:
+
+- Igor Sikorsky Kyiv Polytechnic Institute, Faculty of Electric Power Engineering and Automatics, Electromechanics
+- Supplementary:
+  - [CS50 online](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+  - [Hillel Front-end Basic](https://ithillel.ua/courses/front-end-basic)
+
+---
