@@ -41,3 +41,15 @@
 - German: intermediate (B1)
 
 ---
+
+## Code Example:
+
+```js
+function squareSum(numbers) {
+  if (numbers.length === 0) return 0;
+  return numbers.reduce(
+    (accumulator, currentValue) => accumulator + currentValue ** 2,
+    0
+  );
+}
+```
