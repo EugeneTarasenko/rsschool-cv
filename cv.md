@@ -11,6 +11,15 @@
 - **Email:** brumby0890@gmail.com
 - **Telegram:** [@eugen1708](https://t.me/eugen1708)
 - **Github:** [EugeneTarasenko](https://github.com/EugeneTarasenko)
+- **Discord:**
+
+---
+
+## Briefly About Myself:
+
+I'm passionate about computer technologies person who aspires to become a successful web developer. I have been learning to code for a while and already have a considerable knowledge of HTML, CSS, and JavaScript. I believe it is a good foundation for building a career in front-end development.\
+I've finished a couple of online courses and created few web projects that prove my significant level of proficiency.
+Having dedication and willingness to work and study hard, I believe that I have the potential to become a successful front-end developer.
 
 ---
 
@@ -25,9 +34,9 @@
 
 ## Computer Skills:
 
-- HTML, CSS (SASS/SCSS, BEM)
-- JavaScript, TypeScript
-- Git, GitHub
+- HTML, CSS (SASS, BEM, Tailwind)
+- JavaScript
+- Git, GitHub, Gulp
 - VSCode, WebStorm
 - Adobe Photoshop, Pixelmator Pro, Figma
 
@@ -53,3 +62,11 @@ function squareSum(numbers) {
   );
 }
 ```
+
+---
+
+## My projects:
+
+- HLEGAL:
+  - [Website](https://eugenetarasenko.github.io/hillel-front-end-basic/index.html)
+  - [Code on Github](https://github.com/EugeneTarasenko/hillel-front-end-basic/tree/hlegal)
