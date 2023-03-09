@@ -1,6 +1,6 @@
 # Eugen Tarasenko
 
-<img src="photo.png"  width="50%">
+<img src="photo.png"  width="30%">
 
 ---
 
@@ -29,7 +29,7 @@
 - JavaScript, TypeScript
 - Git, GitHub
 - VSCode, WebStorm
-- Adobe Photoshop, Figma
+- Adobe Photoshop, Pixelmator Pro, Figma
 
 ---
 
